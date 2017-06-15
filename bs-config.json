@@ -1,0 +1,6 @@
+{
+  "port": 8500,
+  "files": ["./bootinar/**/*.{html,htm,css,js}"],
+  "server": { "baseDir": "./bootinar" }
+  
+}

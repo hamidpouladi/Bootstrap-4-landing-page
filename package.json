@@ -1,0 +1,11 @@
+{
+  "name": "bootstrap-landing",
+  "version": "1.0.0",
+  "description": "this is hamid bootstrap landing page",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server -c ./bs-config.json"
+  },
+  "author": "hamid pouladi",
+  "license": "ISC"
+}
